@@ -25,14 +25,16 @@ log() {
 }
 
 # === TIER 1: DNS CHECKS ===
+# Using 'host' because nslookup times out inconsistently (returns "no servers"
+# instead of NXDOMAIN), causing false positives.
 
 # Test 1: Old direct domain (was NXDOMAIN since Jul 13)
 PA_RESOLVES=1
-nslookup pa.courts.state.mn.us 2>&1 | grep -q "NXDOMAIN\|can't resolve\|SERVFAIL" || PA_RESOLVES=0
+host pa.courts.state.mn.us 2>&1 | grep -q "NXDOMAIN\|not found\|SERVFAIL\|timed out\|no servers" || PA_RESOLVES=0
 
 # Test 2: courtapi subdomain (permanently NXDOMAIN)
 COURTAPI_RESOLVES=1
-nslookup courtapi.courts.state.mn.us 2>&1 | grep -q "NXDOMAIN\|can't resolve\|SERVFAIL\|timed out" || COURTAPI_RESOLVES=0
+host courtapi.courts.state.mn.us 2>&1 | grep -q "NXDOMAIN\|not found\|SERVFAIL\|timed out\|no servers" || COURTAPI_RESOLVES=0
 
 # === TIER 2: HTTP FRONT-END CHECK ===
 FRONT_HTTP=$(curl -s -o /dev/null -w "%{http_code}" --max-time 10 \

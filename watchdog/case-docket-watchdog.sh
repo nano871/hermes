@@ -75,9 +75,10 @@ echo "$STATE" > "$STATE_FILE"
 # Only speak when state changes or on first run
 
 if [ "$STATE" = "DOCKET_BLOCKED" ]; then
-    if [ "$PREV_STATE" != "DOCKET_BLOCKED" ] && [ -n "$PREV_STATE" ]; then
-        # Transitioned TO blocked — brief status (first time or recovery)
-        echo "Docket check: still blocked (WAF + courtapi NXDOMAIN). Case 27-CO-26-4369."
+    if [ "$PREV_STATE" != "DOCKET_BLOCKED" ] || [ -z "$PREV_STATE" ]; then
+        # First run OR transitioned TO blocked — brief status
+        echo "Docket check: blocked (WAF + courtapi NXDOMAIN). Case 27-CO-26-4369."
+        echo "Silent until infrastructure changes."
     fi
     # Same state → completely silent (exit 0, no output)
     exit 0

@@ -6,7 +6,8 @@
 # This is Tier 4 of the watchdog stack. It keeps the LLM cost to near-zero
 # by only running when the bash script detects something unusual.
 
-INSTALL_DIR="$HOME/.hermes/scripts"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+INSTALL_DIR="$SCRIPT_DIR"
 STATE_FILE="$INSTALL_DIR/.case-docket-watchdog.state"
 ERROR_COUNT_FILE="$INSTALL_DIR/.watchdog-error-count"
 MAX_ERRORS_BEFORE_ESCALATION=3
@@ -55,8 +56,8 @@ echo "This means the MCRO infrastructure may have changed in a way the simple"
 echo "DNS/HTTP check cannot fully assess. Manual investigation recommended."
 echo ""
 echo "Suggested steps:"
-echo "  1. Run: bash ~/.hermes/scripts/case-docket-watchdog.sh"
-echo "  2. Check the log: cat ~/.hermes/scripts/.case-docket-watchdog.log"
+echo "  1. Run: bash $INSTALL_DIR/case-docket-watchdog.sh"
+echo "  2. Check the log: cat $INSTALL_DIR/.case-docket-watchdog.log"
 echo "  3. Manual docket check with residential browser"
 echo "  4. Case: 27-CO-26-4369 — Fitness Logic LLC v. Grocery Delivery Logistics"
 echo "  5. Hearing: August 6, 2026 — Referee Nevin"

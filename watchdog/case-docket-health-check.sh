@@ -4,7 +4,8 @@
 # Self-heals by downloading from GitHub if missing/corrupted.
 # Silent unless something is wrong.
 
-INSTALL_DIR="$HOME/.hermes/scripts"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+INSTALL_DIR="$SCRIPT_DIR"
 GIT_BACKUP="/root/counsel-prime-infra"
 WATCHDOG_SCRIPT="$INSTALL_DIR/case-docket-watchdog.sh"
 STATE_FILE="$INSTALL_DIR/.case-docket-watchdog.state"

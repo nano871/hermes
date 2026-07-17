@@ -59,6 +59,13 @@ Each SOW is incorporated into this Agreement by reference. If a conflict arises 
 ### 1.5 Independent Contractor
 Consultant is an independent contractor. Nothing in this Agreement creates an employment, partnership, joint venture, or agency relationship. Consultant is solely responsible for its personnel's compensation, taxes, and benefits.
 
+### 1.6 Nature of Services
+**`[IDEAL]`** This Agreement is for the provision of professional consulting and implementation services, including AI strategy, system design, integration, and technology advisory. Consultant provides expertise, analysis, design, customization, configuration, integration, and related services. To the extent that any Deliverable may be characterized as a good under the Uniform Commercial Code (UCC), the Parties agree that the predominant purpose of this Agreement and each SOW is the provision of services, not the sale of goods. This Agreement shall be governed by common law, and the UCC, including without limitation Article 2 (Sales), shall not apply to this Agreement or any SOW or Deliverable. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY OTHER WARRANTY ARISING FROM THE UCC ARE EXPRESSLY DISCLAIMED. This Section 1.6 governs notwithstanding any provision of any SOW or Change Order that may characterize a Deliverable as software, code, or a tangible product.
+
+**`[ACCEPTABLE]`** Delete Section 1.6; rely on the implied warranty disclaimer in Section 5.3 alone.
+
+**`[WALK-AWAY]`** The Agreement or SOW characterizes the engagement as a sale of goods or transaction in goods subject to UCC Article 2. **[DO NOT ACCEPT WITHOUT PRINCIPAL REVIEW]**
+
 ---
 
 ## 2. FEES AND PAYMENT
@@ -314,7 +321,7 @@ Upon termination:
 ## 10. GENERAL PROVISIONS
 
 ### 10.1 Governing Law and Venue
-This Agreement shall be governed by the laws of the State of Minnesota, without regard to its conflict of laws principles. The exclusive venue for any dispute arising from this Agreement shall be the state and federal courts located in Hennepin County, Minnesota.
+This Agreement shall be governed by the laws of the State of Minnesota, without regard to its conflict of laws principles. This Agreement is a contract for services, not a sale of goods, and shall be governed by common law, not the Uniform Commercial Code. The exclusive venue for any dispute arising from this Agreement shall be the state and federal courts located in Hennepin County, Minnesota.
 
 ### 10.2 Dispute Resolution
 **`[IDEAL]`** The Parties shall attempt to resolve disputes through the following escalation:

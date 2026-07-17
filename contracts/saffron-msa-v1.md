@@ -1,7 +1,7 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.0 — Counsel Prime
-**Last Updated:** July 15, 2026
+**Version:** 1.1 — Counsel Prime
+**Last Updated:** July 17, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
 ---
@@ -47,11 +47,18 @@ Saffron reserves the right to decline any proposed SOW that, in its reasonable j
 Consultant shall have no obligation to perform services not described in an executed SOW or Change Order. Any request for out-of-scope work shall be addressed through the Change Order process (Section 1.3).
 
 ### 1.3 Change Orders
+
 **`[IDEAL]`** All changes to an active SOW must be documented in a written Change Order signed by both Parties. Each Change Order shall describe the change and its impact on cost, timeline, and deliverables. Consultant shall not commence changed work without an executed Change Order.
 
-**`[ACCEPTABLE]`** Email approval from Client's authorized representative constitutes a binding Change Order for changes under [DOLLAR AMOUNT] or [DURATION].
+**Cardinal Change / Fundamental Scope Change.** A change that fundamentally alters the nature, purpose, or technical approach of the engagement — including but not limited to a different AI model architecture, a fundamentally different use case, or a materially different technical approach from what is described in the SOW — constitutes a **cardinal change** outside the scope of this Change Order process. Upon a Client request for a cardinal change, Consultant may, in its sole discretion: (a) require a new SOW for the changed work; (b) treat the request as a breach of the existing SOW and terminate with the kill fee set forth in Section 2.6; or (c) negotiate a mutually acceptable alternative. Consultant is not obligated to process a cardinal change through the Change Order procedure.
 
-**`[WALK-AWAY]`** Verbal or oral changes binding. **[DO NOT ACCEPT — REQUIRES PRINCIPAL SIGN-OFF]**
+**Emergency Change Protocol.** In the event of a genuine emergency requiring immediate work before a formal Change Order can be executed (including but not limited to production system outages, critical compliance deadlines, or data breach response): (a) Consultant may begin work upon written authorization (email sufficient) from Client's authorized representative; (b) Consultant shall document the emergency scope contemporaneously; (c) a formal Change Order memorializing the emergency work must be executed within five (5) business days; (d) if no formal Change Order is executed within ten (10) business days, Consultant may suspend emergency work until the Change Order is signed. Emergency work not confirmed by a formal Change Order within ten (10) business days shall be deemed unauthorized.
+
+**Assumptions and Dependencies.** Each SOW is based on stated assumptions and dependencies. If any material assumption is incorrect, changes, or proves invalid, Consultant shall have the right to: (a) adjust fees and timeline proportionally; (b) modify or remove affected deliverables; or (c) terminate the applicable SOW without penalty. If the Parties cannot agree on adjusted terms within ten (10) business days of Consultant's written notice, Consultant may terminate the SOW under (c).
+
+**`[ACCEPTABLE]`** Email approval from Client's authorized representative constitutes a binding Change Order for changes under **[DOLLAR AMOUNT]** or **[DURATION]**. Emergency changes may be authorized by email with formal CO within 10 business days. Cardinal change treatment remains as set forth above.
+
+**`[WALK-AWAY]`** Verbal or oral changes binding. No cardinal change distinction. No right to adjust fees when assumptions change. **[DO NOT ACCEPT — REQUIRES PRINCIPAL SIGN-OFF]**
 
 ### 1.4 SOW Hierarchy
 Each SOW is incorporated into this Agreement by reference. If a conflict arises between this Agreement and a SOW, this Agreement controls unless the SOW expressly states otherwise and is signed by both Parties.
@@ -65,6 +72,21 @@ Consultant is an independent contractor. Nothing in this Agreement creates an em
 **`[ACCEPTABLE]`** Delete Section 1.6; rely on the implied warranty disclaimer in Section 5.3 alone.
 
 **`[WALK-AWAY]`** The Agreement or SOW characterizes the engagement as a sale of goods or transaction in goods subject to UCC Article 2. **[DO NOT ACCEPT WITHOUT PRINCIPAL REVIEW]**
+
+### 1.7 Scope Change Governance
+
+**`[IDEAL]`** 
+(a) **Authorized Representatives.** Each SOW shall designate one or more authorized representatives for each Party. Only those representatives may (i) request or approve changes to scope, timeline, or deliverables, (ii) approve Change Orders or emergency change authorizations, or (iii) waive any provision of this Agreement. Consultant shall not be bound by scope-related requests from any other Client personnel.
+
+(b) **Communication Channel.** All scope-related communications shall be directed through the designated representatives. Consultant may acknowledge requests from other Client personnel as a courtesy but shall not commence changed work until the request is confirmed in writing by Client's authorized representative.
+
+(c) **Documentation.** Client's authorized representative shall document every scope change request in writing (email sufficient). Consultant shall respond within two (2) business days with either a proposed Change Order or a written explanation of why the request constitutes a cardinal change requiring a new SOW under Section 1.3.
+
+(d) **Ratification of Unauthorized Changes.** If Client permits unauthorized personnel to direct Consultant's work and Consultant performs such work in good faith, Client shall be deemed to have ratified the change and shall pay for the additional work at Consultant's then-current standard rates. Consultant may, at its option, require a formal Change Order for any such ratified work. This Section 1.7(d) does not waive the written Change Order requirement — it provides a remedy for unauthorized requests that Consultant performs in good faith.
+
+**`[ACCEPTABLE]`** Authorized representatives designated in the MSA (not per-SOW). Communications may be oral if confirmed in writing within two (2) business days. Ratification provision applies.
+
+**`[WALK-AWAY]`** No authorized representative designation — any Client employee may direct Consultant. No written documentation required. No ratification remedy. **[DO NOT ACCEPT — REQUIRES PRINCIPAL SIGN-OFF]**
 
 ---
 

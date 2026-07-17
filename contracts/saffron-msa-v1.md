@@ -42,7 +42,8 @@ Consultant shall perform services only pursuant to written Statements of Work (*
 
 `[ACCEPTABLE]` SOWs may be exchanged via email with attached PDF, provided the SOW references this Agreement and is signed by both Parties.
 
-### 1.2 No Out-of-Scope Work
+### 1.2 Right to Decline SOW
+Saffron reserves the right to decline any proposed SOW that, in its reasonable judgment, involves an AI application that presents unacceptable legal, ethical, regulatory, or reputational risk. Saffron shall provide its reasons in writing and work with Client in good faith to identify an acceptable alternative scope.
 Consultant shall have no obligation to perform services not described in an executed SOW or Change Order. Any request for out-of-scope work shall be addressed through the Change Order process (Section 1.3).
 
 ### 1.3 Change Orders
@@ -75,8 +76,12 @@ Consultant shall invoice Client [monthly / per milestone] as specified in the ap
 
 **`[WALK-AWAY]`** No interest, no suspension right, or net 60+ payment terms.
 
-### 2.4 Expenses
+### 2.4 Expenses and Third-Party Costs
 Client shall reimburse Consultant for reasonable, pre-approved out-of-pocket expenses incurred in performing the services. Expenses requiring reimbursement in excess of **[DOLLAR AMOUNT]** per item require Client's prior written approval.
+
+**`[IDEAL]`** **Third-Party AI Costs.** Client shall pay all third-party costs incurred in performing the Services, including but not limited to: API usage fees (OpenAI, Anthropic, Google, or similar), cloud computing resources, third-party model licensing fees, and data acquisition costs. Consultant shall pass through such costs at Consultant's cost with no markup, or with a mutually agreed administrative fee not to exceed **[PERCENTAGE]%**. Consultant shall provide reasonable documentation of such costs upon Client's request.
+
+**`[ACCEPTABLE]`** Third-party costs included in fixed fee estimates with true-up/adjustment mechanism for significant variance (±20%).
 
 ### 2.5 Taxes
 Each Party shall pay its own taxes. Consultant shall pay all taxes on its income. Client shall pay all sales, use, excise, and similar taxes imposed on the services, excluding taxes based on Consultant's income. If Consultant has a legal obligation to collect such taxes, Consultant shall invoice them separately.
@@ -118,7 +123,7 @@ Each Party retains all right, title, and interest in its Pre-Existing IP. Neithe
 **IMPORTANT — `[IDEAL]`**
 Consultant may use artificial intelligence tools, models, and platforms in performing the services. Client ACKNOWLEDGES AND AGREES that:
 
-(a) **No Copyrightability Warranty.** Under current United States law, including the DC Circuit's holding in *Thaler v. Perlmutter* (2025), cert. denied (2026), works generated entirely by AI without sufficient human creative input are not copyrightable. Consultant makes **NO WARRANTY** that AI-generated components of the Deliverables are copyrightable or otherwise protectable as intellectual property. Client bears the risk that AI-generated components may not be eligible for copyright, trademark, or patent protection.
+(a) **No Copyrightability Warranty.** Under current United States law, including the DC Circuit's holding in *Thaler v. Perlmutter* (2025), cert. denied (2026), and guidance from the U.S. Copyright Office, works generated entirely or predominantly by AI without sufficient human creative input are not copyrightable. The Copyright Office has recognized that AI-assisted works may be copyrightable where the human contributes sufficient creative expression (e.g., creative prompt engineering, selection, arrangement, editing), but this is a case-by-case determination. Consultant makes **NO WARRANTY** that AI-generated components of the Deliverables are copyrightable or otherwise protectable as intellectual property. Client bears the risk that AI-generated components may not be eligible for copyright, trademark, or patent protection, and Client is responsible for: (i) determining whether sufficient human authorship exists to support copyright claims; (ii) maintaining records of human creative input; (iii) disclosing AI-generated content in any registration applications as required by the Copyright Office; and (iv) defending against claims that AI-generated outputs are not copyrightable.
 
 (b) **No Accuracy Warranty.** Consultant makes **NO WARRANTY** that AI-generated outputs are error-free, complete, accurate, or suitable for Client's intended use. Client bears sole responsibility for reviewing, testing, validating, and approving all AI-generated components before deployment or use.
 
@@ -194,9 +199,11 @@ WITHOUT LIMITING THE FOREGOING, CONSULTANT EXPRESSLY DISCLAIMS ANY WARRANTY THAT
 
 (c) AI-GENERATED OUTPUTS WILL NOT INFRINGE THIRD-PARTY INTELLECTUAL PROPERTY RIGHTS;
 
-(d) THE USE OF AI TOOLS WILL COMPLY WITH ANY PARTICULAR LEGAL OR REGULATORY FRAMEWORK APPLICABLE TO CLIENT'S INDUSTRY;
+(d) THE USE OF AI TOOLS WILL COMPLY WITH ANY PARTICULAR LEGAL OR REGULATORY FRAMEWORK APPLICABLE TO CLIENT'S INDUSTRY OR JURISDICTION, INCLUDING BUT NOT LIMITED TO THE COLORADO AI ACT (SB 24-205), THE PROPOSED MINNESOTA AI ACT, THE EU AI ACT, OR ANY SECTOR-SPECIFIC REGULATIONS SUCH AS HIPAA, FCRA, ECOA, OR FDA REQUIREMENTS;
 
-(e) THIRD-PARTY AI PLATFORMS OR MODELS (INCLUDING BUT NOT LIMITED TO OPENAI, ANTHROPIC, GOOGLE, META, OR MICROSOFT) WILL REMAIN AVAILABLE, UNCHANGED, OR IN COMPLIANCE WITH APPLICABLE LAW.
+(e) THIRD-PARTY AI PLATFORMS OR MODELS (INCLUDING BUT NOT LIMITED TO OPENAI, ANTHROPIC, GOOGLE, META, OR MICROSOFT) WILL REMAIN AVAILABLE, UNCHANGED, OR IN COMPLIANCE WITH APPLICABLE LAW;
+
+(f) THE SERVICES OR DELIVERABLES WILL ACHIEVE ANY SPECIFIC BUSINESS OUTCOME, RETURN ON INVESTMENT, ACCURACY RATE, OR PERFORMANCE METRIC, EXCEPT AS EXPRESSLY SET FORTH IN AN SOW.
 
 CLIENT BEARS SOLE RESPONSIBILITY FOR:
 (i) REVIEWING, TESTING, AND APPROVING ALL DELIVERABLES BEFORE DEPLOYMENT;
@@ -269,8 +276,9 @@ During the term of this Agreement and for two (2) years thereafter, Consultant s
 | Coverage | Minimum Limits |
 |---|---|
 | Commercial General Liability | $1,000,000 per occurrence / $2,000,000 aggregate |
-| Professional Liability / Technology Errors & Omissions | $1,000,000 per claim / $2,000,000 aggregate |
+| Professional Liability / Technology Errors & Omissions (with AI/ML services endorsement) | $1,000,000 per claim / $2,000,000 aggregate |
 | Cyber Liability (if SOW involves Client data) | $1,000,000 per occurrence |
+| Umbrella / Excess Liability | $5,000,000 aggregate |
 | Workers' Compensation | Statutory |
 
 ### 8.2 Requirements

@@ -1,7 +1,7 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.1 — Counsel Prime
-**Last Updated:** July 17, 2026
+**Version:** 1.2 — Counsel Prime
+**Last Updated:** July 18, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
 ---
@@ -138,15 +138,19 @@ As used in this Agreement:
 Each Party retains all right, title, and interest in its Pre-Existing IP. Neither Party grants the other any license to its Pre-Existing IP except as expressly set forth in this Agreement.
 
 **`[ACCEPTABLE]`** Consultant grants Client a non-exclusive, perpetual, royalty-free license to use Consultant's Pre-Existing IP incorporated into Deliverables, solely to the extent necessary to use the Deliverables for their intended purpose. No license is granted to use Consultant's Pre-Existing IP independently of the Deliverables.
-
 ### 3.3 Deliverables
+
 **`[IDEAL]`** Upon full payment of all fees due under the applicable SOW, Consultant assigns to Client all right, title, and interest in the Deliverables. This assignment excludes:
 (a) Consultant's Pre-Existing IP incorporated into the Deliverables, which remains subject to Section 3.2;
 (b) Residual Knowledge, which remains Consultant's unrestricted property.
 
-**`[ACCEPTABLE]`** Same, with Client receiving ownership of work product specifically created for Client, and Consultant retaining a perpetual license to use generalized methodologies and know-how developed during the engagement.
+**Work for Hire Disclaimer.** The Parties acknowledge and agree that the Deliverables are NOT works made for hire under the Copyright Act (17 U.S.C. § 101). Consultant is an independent contractor, not an employee of Client, and the Deliverables do not fall within the nine enumerated categories of commissioned works under § 101(2). The operative transfer mechanism is assignment under 17 U.S.C. § 204(a), and this Agreement (including each SOW) constitutes the signed written instrument required by that section.
 
-**`[WALK-AWAY]`** Full assignment of all Consultant IP created during the engagement, including generalized tools and methodologies. **[DO NOT ACCEPT — REQUIRES PRINCIPAL SIGN-OFF]**
+**§ 204(a) Acknowledgment.** Client acknowledges that this Agreement satisfies the writing and signature requirements of 17 U.S.C. § 204(a) for the transfer of copyright ownership in the Deliverables. No further instrument is required for the assignment to be effective upon full payment. However, Consultant shall, at Client's request and expense, execute additional documents reasonably required to perfect Client's ownership interest.
+
+**`[ACCEPTABLE]`** Same, with Client receiving ownership of work product specifically created for Client, and Consultant retaining a perpetual license to use generalized methodologies and know-how developed during the engagement. Work-for-hire disclaimer and § 204(a) acknowledgment may be omitted if Client accepts clean assignment language and does not demand "work made for hire" language.
+
+**`[WALK-AWAY]`** Full assignment of all Consultant IP created during the engagement, including generalized tools and methodologies. Client insists on "work made for hire" characterization that creates ambiguity about employment status (independent contractor vs. employee). **[DO NOT ACCEPT — REQUIRES PRINCIPAL SIGN-OFF]**
 
 ### 3.4 AI-Generated Components
 **IMPORTANT — `[IDEAL]`**
@@ -167,7 +171,11 @@ Consultant may use artificial intelligence tools, models, and platforms in perfo
 ### 3.5 Feedback and Improvements
 If Client provides feedback, suggestions, or ideas about Consultant's services or Pre-Existing IP, Consultant may use such feedback without restriction and without obligation to Client.
 
-### 3.6 Open Source Components
+### 3.6 Joint Work Exclusion
+
+The Parties acknowledge and agree that the Services and Deliverables are not intended to be, and shall not be deemed, a joint work under the Copyright Act (17 U.S.C. § 101). Each Party's contributions to the Deliverables are intended as separable and independent works, and neither Party shall be deemed a co-author of the other's Pre-Existing IP or Residual Knowledge. If a court or other authority determines that any Deliverable constitutes a joint work, the Parties agree that each shall account to the other for any profits or licensing revenues derived from the joint work, with each Party bearing its own costs of exploitation.
+
+### 3.7 Open Source Components
 If Consultant incorporates open-source software into the Deliverables, Consultant shall identify such components and their applicable licenses in the SOW. Client's use of such components shall be governed by the applicable open-source license.
 
 ---

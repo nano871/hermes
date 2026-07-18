@@ -223,7 +223,10 @@ Client may terminate this Agreement with **[14]** days' written notice. In such 
 ### 9.2 Termination for Cause
 Either Party may terminate if the other materially breaches and fails to cure within **[15]** days of written notice.
 
-### 9.3 Effect of Termination
+### 9.3 Unhappy Client Protocol
+If Client is dissatisfied with any aspect of the Services, Client shall notify Designer in writing describing the specific issue. Designer shall respond within **[3] business days** and propose a resolution plan at no additional cost for issues within the original scope. This Section does not apply to disputes about out-of-scope work, additional fees, or changes requested after approval.
+
+### 9.4 Effect of Termination
 Upon termination, Sections 3 (IP), 6 (Liability), 7 (Indemnification), 8 (Confidentiality), and 10 (General) survive.
 
 ---
@@ -237,6 +240,7 @@ Upon termination, Sections 3 (IP), 6 (Liability), 7 (Indemnification), 8 (Confid
 - **Independent Contractor:** Designer is an independent contractor, not an employee
 - **Force Majeure:** Neither Party liable for delays caused by circumstances beyond reasonable control
 - **Notices:** Email to the addresses in the signature block constitutes valid notice
+- **Correspondence Policy:** All project-related communication shall occur through [email / project management tool]. Designer will respond to Client inquiries within **[2] business days**. Designer's response time does not extend the project timeline unless the delay is caused by Designer's failure to respond within the stated period. Major decisions (design approval, content delivery, change orders) must be made by Client's designated point of contact.
 
 ---
 

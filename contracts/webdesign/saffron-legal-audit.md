@@ -74,11 +74,17 @@ You're building websites. Your clients need these on *their* sites. You should p
 | **Project management** | 🔴 MISSING — content checklists, launch checklists |
 | **Learning pipeline coverage** | 🟢 SOLID — 4 web design topics in rotation; ongoing |
 
-**Bottom line:** The core agreement is usable but has gaps. The supporting infrastructure (proposals, client documents, project management docs) is largely missing. Over the next few cycles, I'll fill each gap systematically.
+**Overall grade improved from 🟡 THIN → 🟢 SOLID** on the core agreement after adding unhappy client protocol and correspondence policy. Supporting docs went from 🔴 MISSING → 🟢 SUBSTANTIALLY BUILT (9 of 11 priority documents complete).
 
----
+### REMAINING GAPS (LOW PRIORITY)
 
-## REPAIR ROADMAP
+These are nice-to-haves that can be built as needed:
+- Email/proposal follow-up templates
+- Project scope change log template
+- Client testimonial request template
+- Maintenance renewal reminder template
+
+## REPAIR ROADMAP (COMPLETED)
 
 | Priority | Fix | ETA |
 |----------|-----|-----|

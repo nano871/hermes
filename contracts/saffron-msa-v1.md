@@ -1,6 +1,6 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.3 — Counsel Prime
+**Version:** 1.4 — Counsel Prime
 **Last Updated:** July 18, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
@@ -305,16 +305,34 @@ Consultant shall indemnify, defend, and hold harmless Client from and against an
 Client shall indemnify, defend, and hold harmless Consultant from and against any third-party claim arising from:
 
 (a) Client's use of the Deliverables, including claims that such use violates applicable law;
+
 (b) Client's data, content, materials, or instructions provided to Consultant;
-(c) Client's violation of any applicable law, regulation, or third-party right.
 
-### 7.3 Indemnification Procedure
-The indemnified Party shall:
-(a) promptly notify the indemnifying Party of the claim;
-(b) give the indemnifying Party sole control of the defense and settlement;
-(c) provide reasonable cooperation at the indemnifying Party's expense.
+(c) Client's violation of any applicable law, regulation, or third-party right;
 
-The indemnifying Party may not settle a claim in a manner that admits fault or imposes an obligation on the indemnified Party without the indemnified Party's prior written consent.
+(d) Client's failure to implement and maintain adequate human oversight of AI-generated outputs, including claims alleging that an AI output caused harm or damage that human review would have prevented;
+
+(e) Client's use of AI-generated outputs in regulated decisions or contexts, including but not limited to employment, hiring, credit, housing, insurance, healthcare, education, or government benefits decisions, where such use violates applicable law; and
+
+(f) Claims that AI-generated components of the Deliverables are not copyrightable or that the Deliverables infringe copyright due to their AI-generated nature, including claims based on or analogous to Thaler v. Perlmutter.
+
+**Cap-Indemnity Cross-Reference:** The Parties acknowledge that the indemnification obligations in this Section 7 are excluded from the liability cap and consequential damages waiver set forth in Section 6, as provided in Section 6.3(a). Indemnification obligations under this Section 7 are not subject to the limitations in Section 6.1 or Section 6.2.
+
+### 7.3 Indemnification Procedure — Tender of Defense
+
+(a) **Notice.** The Indemnified Party shall notify the Indemnifying Party in writing of any claim promptly, and in any event within ten (10) business days of learning of the claim. Failure to provide timely notice shall relieve the Indemnifying Party of its indemnification obligations only to the extent the Indemnifying Party is actually prejudiced by the delay.
+
+(b) **Tender and Acceptance.** The Indemnified Party shall tender control of the defense to the Indemnifying Party. The Indemnifying Party shall accept the defense in writing within fifteen (15) business days of receiving the notice and shall confirm in writing that it acknowledges its indemnification obligation. If the Indemnifying Party fails to accept defense within fifteen (15) business days, the Indemnified Party may assume control of the defense at the Indemnifying Party's expense, and the Indemnifying Party shall reimburse all reasonable defense costs incurred thereafter.
+
+(c) **Control of Defense.** If the Indemnifying Party timely accepts defense, it shall have sole control of the defense and settlement of the claim, subject to Section 7.3(e). The Indemnified Party may participate in the defense at its own expense through counsel of its choosing.
+
+(d) **Cooperation.** The Indemnified Party shall provide reasonable cooperation in the defense, including making personnel and records available, at the Indemnifying Party's expense. The Indemnified Party shall not admit fault, settle, or compromise any claim without the Indemnifying Party's prior written consent.
+
+(e) **Conflict Carve-Out.** The Indemnifying Party shall not be entitled to sole control of the defense if: (i) the claim seeks equitable, injunctive, or specific-performance relief against the Indemnified Party; (ii) the claim involves potential criminal exposure for the Indemnified Party; (iii) the Indemnifying Party fails to demonstrate financial ability to satisfy any reasonably likely judgment; (iv) an actual conflict of interest exists between the Parties regarding the claim; or (v) the Indemnifying Party fails to timely accept defense under Section 7.3(b). In such cases, the Indemnified Party may assume control of the defense at the Indemnifying Party's expense, subject to the Indemnifying Party's right to participate and approval of any settlement that would bind the Indemnifying Party.
+
+(f) **Settlement Control.** The Indemnifying Party may settle without the Indemnified Party's consent only if the settlement: (i) is solely for monetary damages paid in full by the Indemnifying Party; (ii) includes a full release of the Indemnified Party with no admission of fault; and (iii) does not require injunctive relief, equitable relief, or a behavioral or operational change by the Indemnified Party. Any other settlement requires the Indemnified Party's prior written consent, which shall not be unreasonably withheld. If the Indemnifying Party rejects a settlement acceptable to the Indemnified Party, the Indemnifying Party's further liability for the claim shall be capped at the rejected settlement amount plus defense costs incurred to the date of rejection.
+
+(g) **Subrogation Waiver.** Each Party waives any right of subrogation against the other Party that any of its insurers may have to the extent of the indemnity obligations under this Section 7. Each Party shall ensure its insurance policies reflect this waiver of subrogation.
 
 ---
 

@@ -272,7 +272,13 @@ The following claims are excluded from the limitations in Sections 6.1 and 6.2:
 (b) either Party's breach of confidentiality under Section 4;
 (c) Consultant's infringement of Client's intellectual property rights;
 (d) Client's payment obligations under Section 2;
-(e) either Party's gross negligence or willful misconduct.
+(e) either Party's gross negligence or willful misconduct;
+(f) either Party's fraud or fraudulent misrepresentation;
+(g) claims for death or bodily injury;
+(h) any liability that cannot be limited or excluded by applicable law.
+
+### 6.4 Independent Limitations
+**`[IDEAL]`** The liability cap (Section 6.1) and the exclusion of consequential damages (Section 6.2) are independent contractual provisions. If a court of competent jurisdiction determines that either Section 6.1 or Section 6.2 is unenforceable in whole or in part for any reason, the remaining Section shall remain in full force and effect to the maximum extent permitted by law. The Parties expressly agree that each limitation serves as a fallback for the other and that their combined effect reflects the agreed allocation of risk underlying this Agreement.
 
 ---
 

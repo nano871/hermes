@@ -34,6 +34,10 @@
 | 28 | **Data Privacy for SaaS Platforms** | CCPA/CPRA compliance; Colorado CPA; cookie consent requirements; analytics disclosures; privacy policy requirements by state |
 | 29 | **WCAG / Accessibility Compliance** | ADA Title III for platforms; WCAG 2.1 AA standards; recent website accessibility cases; risk of demand letters |
 | 30 | **Sales Tax for SaaS** | South Dakota v. Wayfair economic nexus; MN SaaS taxability; state-by-state SaaS tax matrix; exemption certificate management |
+| 31 | **Web Design Contracts — Portfolio Rights** | Designers' right to show work; confidentiality vs. portfolio; credit links; trade secret concerns |
+| 32 | **Web Design — Content & Revision Cycles** | Client content delivery deadlines; revision round enforceability; "satisfaction" clauses; scope creep |
+| 33 | **Web Design — Third-Party Assets** | Stock photo licensing; font licensing; plugin EULAs; pass-through license obligations; template reuse |
+| 34 | **Web Maintenance Retainers** | Service credits; SLA enforceability; auto-renewal; scope boundaries for bug fixes vs. new features |
 
 ## Rotation Rules
 - Each run picks the next topic in sequence (tracked in state file)

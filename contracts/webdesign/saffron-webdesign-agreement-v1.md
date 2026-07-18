@@ -108,9 +108,14 @@ Third-Party Materials are licensed, not assigned, to Client. Client agrees to be
 
 ### 3.5 AI-Generated Content
 Designer may use artificial intelligence tools in the design process (e.g., AI-generated images, content drafts, code generation). Client acknowledges that:
-- AI-generated content may not be copyrightable under *Thaler v. Perlmutter*;
-- Client is responsible for reviewing, editing, and approving all AI-generated content before publication;
-- Designer makes no warranty regarding the originality, accuracy, or non-infringement of AI-generated content.
+
+(a) **Copyrightability.** AI-generated content may not be copyrightable under *Thaler v. Perlmutter* (D.C. Cir. 2025, cert. denied 2026). Client is responsible for determining whether sufficient human authorship exists to support copyright claims, maintaining records of human creative input, and disclosing AI-generated content in any registration applications.
+
+(b) **AI Image Licensing.** AI-generated images may have different licensing terms than traditional stock photography. Some AI image providers prohibit commercial use of outputs that compete with the provider. Designer shall disclose which AI image tools are used, and Client accepts the applicable terms of service. Designer makes no warranty that AI-generated images are free of third-party rights.
+
+(c) **Code Security.** Designer makes no warranty that AI-generated code is secure, free of vulnerabilities, or compliant with industry security standards. Client is responsible for independent security review of any AI-generated code before deployment.
+
+(d) **Accuracy & Originality.** Designer makes no warranty regarding the accuracy, originality, or non-infringement of AI-generated content. Client bears sole responsibility for reviewing, editing, and approving all AI-generated content before publication, including compliance with FTC endorsement disclosure requirements if AI-generated content includes or resembles testimonials, reviews, or endorsements.
 
 ### 3.6 Portfolio Rights
 **`[IDEAL]`** Designer may display the completed website and related designs in Designer's portfolio, website, social media, and marketing materials. Designer shall not display confidential information (trade secrets, proprietary business processes) without Client's consent. Designer may remove the project from portfolio upon Client's written request.
@@ -134,7 +139,12 @@ Designer may use artificial intelligence tools in the design process (e.g., AI-g
 Client shall register and maintain ownership of the domain name. If Client requests Designer to register the domain on Client's behalf, Designer shall register it in Client's name and provide Client with the account credentials. Domain ownership always belongs to Client.
 
 ### 4.2 Hosting
-Client is responsible for securing and maintaining web hosting. Designer may recommend hosting providers but is not responsible for hosting performance, security, or uptime. If Designer provides hosting as a service, the terms shall be set forth in a separate Hosting Agreement or Exhibit A.
+Client is responsible for securing and maintaining web hosting. Designer may recommend or set up hosting providers but **expressly disclaims all liability** for:
+- hosting provider performance, uptime, security, or data loss;
+- hosting provider policy changes, terms of service changes, or service discontinuation;
+- security breaches affecting the hosting environment that are not caused by Designer's code.
+
+If Designer provides hosting as a direct service (not through a third-party provider), the terms shall be set forth in a separate Hosting Agreement or Service Level Agreement.
 
 ### 4.3 Transfer
 Upon project completion, Designer shall provide Client with all necessary credentials and documentation to manage the website independently, including: CMS admin access, hosting credentials (if Designer set up hosting), and any third-party account access.
@@ -187,7 +197,7 @@ Sections 6.1 and 6.2 do not apply to: (a) payment obligations; (b) confidentiali
 Designer shall indemnify Client against third-party claims that the Final Deliverables (excluding AI-generated content and Third-Party Materials) infringe a United States intellectual property right.
 
 ### 7.2 Client Indemnity
-Client shall indemnify Designer against third-party claims arising from: (a) content provided by Client that infringes third-party rights; (b) Client's use of the website in violation of applicable law; (c) Client's modification of the website after launch.
+Client shall indemnify Designer against third-party claims arising from: (a) content provided by Client that infringes third-party rights; (b) Client's use of the website in violation of applicable law, including but not limited to: ADA/accessibility claims, FTC endorsement disclosure requirements, data privacy laws (CCPA, GDPR, MCDPA), or industry-specific regulations (HIPAA, FINRA, SEC); (c) Client's modification of the website after launch; (d) functionality or features requested by Client that result in third-party claims, including but not limited to accessibility claims, intellectual property claims, or regulatory claims.
 
 ---
 
@@ -201,9 +211,14 @@ Each Party shall maintain the other's Confidential Information in confidence. **
 
 ### 9.1 Termination for Convenience
 Client may terminate this Agreement with **[14]** days' written notice. In such event:
-(a) Client shall pay for all work completed to date, plus applicable kill fees;
-(b) Designer shall deliver all work product created through the termination date;
-(c) Client shall receive a license to use the incomplete work product solely to complete the project with another designer.
+
+(a) **Deposit is non-refundable** once design work has commenced. The deposit compensates Designer for the initial creative work, time commitment, and opportunity cost of reserving a project slot.
+
+(b) Client shall pay for all work completed through the termination date at the rates set forth in Exhibit A, less the deposit amount already paid.
+
+(c) Designer shall deliver all work product created through the termination date.
+
+(d) Client shall receive a non-exclusive, non-transferable license to use the incomplete work product solely to complete the project with another designer. No assignment of pre-existing materials or source code is included unless full payment for the project has been made.
 
 ### 9.2 Termination for Cause
 Either Party may terminate if the other materially breaches and fails to cure within **[15]** days of written notice.

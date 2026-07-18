@@ -1,6 +1,6 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.5 — Counsel Prime
+**Version:** 1.6 — Counsel Prime
 **Last Updated:** July 18, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
@@ -185,6 +185,22 @@ The Parties acknowledge and agree that the Services and Deliverables are not int
 
 ### 3.7 Open Source Components
 If Consultant incorporates open-source software into the Deliverables, Consultant shall identify such components and their applicable licenses in the SOW. Client's use of such components shall be governed by the applicable open-source license.
+
+### 3.8 Fine-Tuned Models and Third-Party Base Models
+
+**`[IDEAL]`**
+
+**(a) Acknowledgment of Third-Party Base Models.** The Parties acknowledge that certain Deliverables may incorporate or be derived from pre-trained artificial intelligence models owned by third-party platform providers (\"Base Models\"), including but not limited to models provided by OpenAI, Anthropic, Google, Meta, or as specified in the applicable SOW. Consultant does not own, and cannot transfer to Client, any ownership interest in such Base Models. Client's use of any Deliverable that incorporates a Base Model is subject to the applicable platform's Terms of Service, Acceptable Use Policy, and any other governing terms in effect at the time of delivery (the \"Platform Terms\"). Client agrees to comply with all Platform Terms applicable to its use of the Deliverable. Consultant shall identify the relevant Platform Terms in the applicable SOW and shall provide Client with a copy or link to such terms.
+
+**(b) Ownership of Fine-Tuning Work Product.** Upon full payment of all fees due under the applicable SOW, Consultant assigns to Client all right, title, and interest in the deliverables specifically created by Consultant for Client in the course of fine-tuning or customizing a Base Model (\"Fine-Tuning Work Product\"), including without limitation: training data pipelines, hyperparameter configurations, adapter weights (including LoRA or similar), evaluation datasets, custom inference code, and any delta or modified weights that can be separated from the Base Model. This assignment does not include the Base Model itself, which remains subject to Section 3.8(a).
+
+**(c) No Model Inversion Warranty.** CONSULTANT MAKES NO WARRANTY THAT CLIENT DATA USED TO TRAIN OR FINE-TUNE A MODEL CANNOT BE EXTRACTED OR RECONSTRUCTED THROUGH MODEL INVERSION, MEMBERSHIP INFERENCE, OR SIMILAR ADVERSARIAL TECHNIQUES. CLIENT BEARS THE RISK THAT ITS DATA, ONCE INCORPORATED INTO A MODEL'S WEIGHTS, MAY BE SUBJECT TO EXTRACTION BY THIRD PARTIES WITH ACCESS TO THE MODEL.
+
+**(d) Platform Continuity.** Consultant makes no representation or warranty that any third-party AI platform will continue to offer, support, or maintain compatibility with any Base Model or fine-tuned model. Consultant's obligations with respect to platform continuity are as set forth in the disclaimer in Section 5.3(e) and the third-party AI platform provisions of this Agreement.
+
+**`[ACCEPTABLE]`** Same Sections (a), (b), and (d), but without the model inversion warranty disclaimer in Section (c) — rely on the general disclaimers in Sections 3.4 and 5.3.
+
+**`[WALK-AWAY]`** Client demands ownership of the entire fine-tuned model including base model weights. Client refuses to acknowledge Platform Terms. Client requires a warranty that training data cannot be extracted or reconstructed from a fine-tuned model. **[DO NOT ACCEPT WITHOUT PRINCIPAL REVIEW]**
 
 ---
 

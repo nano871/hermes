@@ -34,12 +34,29 @@
 
 ## Entity Recommendation
 
-**Recommendation: Launch under existing Saffron Automations LLC initially.**
+**Recommendation: Form a NEW separate LLC for the dashboard platform.**
 
-Rationale:
-1. Simpler tax and accounting — one entity, one EIN, one bank account
-2. Single GL/E&O policy covers both consulting and platform (confirm with carrier)
-3. If the platform generates significant revenue or attracts enterprise clients, spin off into a separate LLC later for liability isolation
-4. Sales tax: register for MN sales tax (SaaS is taxable in MN). Monitor other states as subscribers grow — physical presence is the safe harbor, but Wayfair economic nexus applies.
+**Rationale:**
+1. **Liability isolation** — A SaaS product generates ongoing, automated exposure. If a bug causes business harm, the claim goes against ALL assets of the existing LLC. A separate entity ring-fences consulting assets from SaaS claims.
+2. **Investor-readiness** — Clean cap table, no commingled revenue with consulting. Attractive to future investors or acquirers.
+3. **Brand clarity** — Enterprise buyers understand a separate product company.
+4. **Risk:** ~$400–800 initial filing cost + annual registration. Worth the cost.
 
-Future: When platform revenue exceeds consulting revenue OR when enterprise clients require SOC 2 — create a separate LLC (Saffron Technologies LLC or similar) to isolate product liability from consulting exposure.
+**Structure options:**
+| Option | Cost | Complexity | Best For |
+|--------|------|------------|----------|
+| **Delaware LLC** + foreign registration in MN | ~$500 filing + ~$300/yr registered agent | Higher (2 states) | Future VC fundraising |
+| **Minnesota LLC** | ~$150 filing + $50/yr | Simpler | Bootstrapped, MN-focused |
+| **S-corp election** | N/A (tax election with IRS) | Moderate | Once revenue exceeds ~$80K/yr (saves self-employment tax) |
+
+**Verdict:** Start with MN LLC (simpler, cheaper). Convert to Delaware if fundraising warrants it. Revisit S-corp at tax time.
+
+### Sales Tax — SaaS
+
+**Minnesota: SaaS is NOT currently taxed** (classified as a nontaxable service, not a digital good). However:
+- Register for MN sales tax permit regardless (physical presence = mandatory registration)
+- Do NOT collect MN sales tax on pure SaaS subscriptions
+- DO collect on any separately-priced downloadable digital goods
+- **Ambiguity exists** — some sources classify SaaS as taxable in MN. A private letter ruling from MN DOR is advisable.
+- **Nationally:** ~30+ states tax SaaS. Use a sales tax automation tool (TaxJar, Anrok) once customers reach 5+ states.
+- **Minnesota economic nexus:** $100K or 200 transactions in the state triggers collection obligation.

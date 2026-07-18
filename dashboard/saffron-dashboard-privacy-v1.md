@@ -143,13 +143,16 @@ Depending on your state of residence, you may have additional rights under appli
 
 | Right | Description | States |
 |-------|-------------|--------|
-| **Right to Know** | Request information about categories and specific pieces of personal data collected | CA, CO, CT, VA |
-| **Right to Delete** | Request deletion of personal data (subject to exceptions) | CA, CO, CT, VA |
-| **Right to Opt Out** | Opt out of sale/sharing of personal data for targeted advertising | CA, CO, CT |
-| **Right to Non-Discrimination** | No discrimination for exercising privacy rights | CA, CO, CT, VA |
-| **Right to Correct** | Request correction of inaccurate personal data | CA, CO, CT |
+| **Right to Know** | Request information about categories and specific pieces of personal data collected | CA, CO, CT, VA, MN |
+| **Right to Delete** | Request deletion of personal data (subject to exceptions) | CA, CO, CT, VA, MN |
+| **Right to Opt Out** | Opt out of sale/sharing of personal data for targeted advertising | CA, CO, CT, MN |
+| **Right to Non-Discrimination** | No discrimination for exercising privacy rights | CA, CO, CT, VA, MN |
+| **Right to Correct** | Request correction of inaccurate personal data | CA, CO, CT, MN |
+| **Right to Appeal** | Appeal a decision regarding your privacy request | CO, CT, MN |
 
 **Note:** Saffron does not **sell** personal data as defined under applicable privacy laws. We do not share personal data for cross-context behavioral advertising.
+
+**Minnesota Residents (MCDPA):** The Minnesota Consumer Data Privacy Act (MCDPA) applies to Saffron as a Minnesota-based business. You have all rights listed above. We will respond to verifiable requests within 45 days. If we deny your request, you may appeal by contacting [privacy@email]. You may also contact the Minnesota Attorney General if your appeal is denied.
 
 To exercise your rights, contact us at [privacy@email] or use the account settings panel.
 
@@ -170,13 +173,22 @@ The Platform is not intended for individuals under 18 years of age. We do not kn
 
 ---
 
-## 11. CHANGES TO THIS POLICY
+## 11. AI DISCLOSURE
+
+The Platform may use artificial intelligence and machine learning models to provide features such as automation recommendations, data insights, and workflow optimization. **Regarding AI in the Platform:**
+
+- **What AI does:** The Platform uses AI to analyze patterns in your data, suggest automations, and generate insights. You control when and how AI features are used.
+- **Training data:** We do not use Customer Data to train or improve our underlying AI models unless expressly authorized. Third-party AI providers (OpenAI, Anthropic) are contractually prohibited from using your data for their own model training.
+- **Human review:** AI-generated outputs are probabilistic and may contain errors. You are responsible for reviewing and validating all AI outputs before use.
+- **Automated decisions:** If the Platform makes automated decisions that affect your legal rights (e.g., account suspension, feature access), we provide a right to appeal with human review.
+
+## 12. CHANGES TO THIS POLICY
 
 We may update this Privacy Policy from time to time. Material changes will be notified via email or in-app notification at least [30] days in advance. Your continued use after the effective date constitutes acceptance of the updated policy.
 
 ---
 
-## 12. CONTACT
+## 13. CONTACT
 
 For questions, concerns, or privacy requests:
 

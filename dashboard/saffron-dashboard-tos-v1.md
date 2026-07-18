@@ -45,6 +45,16 @@ Access to the Platform is provided on a subscription basis. Fees are as stated o
 
 **Compliance note — Auto-Renewal Laws:** California (Cal. Bus. & Prof. Code § 17600), New York (Gen. Obl. Law § 5-903), and several other states require specific disclosures for auto-renewing subscriptions including: (a) clear and conspicuous disclosure of auto-renewal terms; (b) acknowledgment separate from other order information; (c) easy cancellation mechanism; (d) email reminder for annual subscriptions. **Saffron must comply with each state where subscribers reside, not just Minnesota.**
 
+**California ARL (AB 2863) — strictest in US — requires:**
+1. **Pre-purchase disclosure** — auto-renewal terms shown SEPARATE from other terms, before payment
+2. **Express consent** — separate checkbox for auto-renewal (NOT bundled with ToS acceptance)
+3. **Acknowledgment email** — after purchase, receipt showing price, term, cancellation instructions
+4. **Online cancellation** — in account settings, at least as easy as sign-up
+5. **Alternative cancellation** — phone or email option if cannot cancel online
+6. **Free trial disclosure** — end date; charge only with express consent
+
+**FTC Click-to-Cancel Rule (effective May 2025):** Cancellation must be at least as easy as signup. Online purchase → online cancel. No phone-only cancellation. Express informed consent before charging.
+
 ### 2.3 Payment Methods
 We accept major credit cards, ACH transfers, and such other payment methods as we may offer from time to time. You represent that you have the legal right to use any payment method you provide.
 

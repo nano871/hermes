@@ -28,6 +28,12 @@
 | 22 | **Export Controls & AI** | EAR controls on AI models; BIS regulations; deemed export rules; Saffron's compliance obligations |
 | 23 | **Open Source Compliance in Consulting** | Open source license compatibility; copyleft traps; AI model licenses; Saffron's delivery obligations |
 | 24 | **Contract Interpretation — Minnesota Law** | Plain meaning rule; parol evidence; contra proferentem; course of dealing; MN-specific contract interpretation cases |
+| 25 | **SaaS ToS Enforceability** | Clickwrap vs browsewrap; conspicuous presentation; affirmative assent; mobile-specific issues; MN cases on online agreements |
+| 26 | **Subscription Billing Compliance** | Auto-renewal statutes (CA, NY, VT); refund laws; dunning best practices; failed payment handling; chargeback rights |
+| 27 | **Section 230 & Platform Liability** | CDA Section 230 safe harbor; FOSTA-SESTA exception; content moderation liability; DMCA safe harbor; Section 230 for AI-generated content |
+| 28 | **Data Privacy for SaaS Platforms** | CCPA/CPRA compliance; Colorado CPA; cookie consent requirements; analytics disclosures; privacy policy requirements by state |
+| 29 | **WCAG / Accessibility Compliance** | ADA Title III for platforms; WCAG 2.1 AA standards; recent website accessibility cases; risk of demand letters |
+| 30 | **Sales Tax for SaaS** | South Dakota v. Wayfair economic nexus; MN SaaS taxability; state-by-state SaaS tax matrix; exemption certificate management |
 
 ## Rotation Rules
 - Each run picks the next topic in sequence (tracked in state file)

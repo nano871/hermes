@@ -1,6 +1,6 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.2 — Counsel Prime
+**Version:** 1.3 — Counsel Prime
 **Last Updated:** July 18, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
@@ -262,8 +262,15 @@ CLIENT BEARS SOLE RESPONSIBILITY FOR:
 
 **`[WALK-AWAY]`** No cap on liability, or cap below fees paid. **[DO NOT ACCEPT WITHOUT PRINCIPAL REVIEW]**
 
-### 6.2 Exclusion of Consequential Damages
-**`[IDEAL]`** EXCEPT FOR EXCLUDED CLAIMS (SECTION 6.3), NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOST PROFITS, LOST DATA, LOST BUSINESS, OR COST OF COVER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+### 6.2 Consequential Damages — Definitions and Exclusion
+
+**`[IDEAL]`** 
+
+**(a) "Consequential Damages" Defined.** For purposes of this Agreement, "Consequential Damages" includes, without limitation: (i) lost profits, lost revenue, or lost business opportunity; (ii) loss of data or costs of data restoration; (iii) loss of goodwill or reputational harm; (iv) cost of cover or substitute performance; (v) business interruption losses; (vi) losses arising from third-party claims related to the subject matter of this Agreement; (vii) damages based on any multiple or formula (including multiples of revenue or earnings); (viii) special, incidental, indirect, punitive, exemplary, or multiplied damages; (ix) losses arising from AI-specific events including model poisoning, data poisoning, adversarial attacks, AI hallucinations or erroneous outputs causing business decisions, algorithmic bias claims, regulatory fines or penalties arising from AI deployment, costs of AI platform migration necessitated by third-party API changes or deprecations, and costs of AI output review or remediation; and (x) any damages that a Party characterizes as "consequential," "indirect," "special," or "punitive" regardless of the legal theory asserted. The Parties agree that the losses listed in this definition are consequential damages regardless of whether they would be classified as direct or consequential under applicable law, and regardless of whether the Parties contemplated such losses at the time of contracting.
+
+**(b) Exclusion of Consequential Damages.** EXCEPT FOR EXCLUDED CLAIMS (SECTION 6.3), NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR CONSEQUENTIAL DAMAGES (AS DEFINED IN SECTION 6.2(A)), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+**`[ACCEPTABLE]`** EXCEPT FOR EXCLUDED CLAIMS (SECTION 6.3), NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOST PROFITS, LOST DATA, LOST BUSINESS, OR COST OF COVER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. *(Without the standalone definition — market standard but leaves direct-vs-consequential ambiguity unresolved.)*
 
 ### 6.3 Excluded Claims
 The following claims are excluded from the limitations in Sections 6.1 and 6.2:

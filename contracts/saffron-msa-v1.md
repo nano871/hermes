@@ -1,6 +1,6 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.4 — Counsel Prime
+**Version:** 1.5 — Counsel Prime
 **Last Updated:** July 18, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
@@ -116,10 +116,18 @@ Client shall reimburse Consultant for reasonable, pre-approved out-of-pocket exp
 Each Party shall pay its own taxes. Consultant shall pay all taxes on its income. Client shall pay all sales, use, excise, and similar taxes imposed on the services, excluding taxes based on Consultant's income. If Consultant has a legal obligation to collect such taxes, Consultant shall invoice them separately.
 
 ### 2.6 Kill Fee
-If Client terminates this Agreement or any SOW without cause, or if Consultant terminates for Client's uncured breach, Client shall pay Consultant:
+
+**`[IDEAL]`** If Client terminates this Agreement or any SOW without cause under Section 9.2, or if Consultant terminates for Client's uncured breach under Section 9.3, Client shall pay Consultant:
 (a) all fees accrued through the termination date; plus
-(b) **`[IDEAL]`** fifty percent (50%) of the fees remaining under the terminated SOW; or
-**`[ACCEPTABLE]`** one hundred percent (100%) of fees for work completed through the date of termination.
+(b) fifty percent (50%) of the fees remaining under the terminated SOW (for fixed-fee engagements) or one (1) month's fees (for time-and-materials engagements).
+
+IP Delivered Condition. If Client pays the kill fee in full, Consultant shall deliver all work-in-progress under the terminated SOW as it exists on the termination date ("as-is," with no warranty beyond Section 5.2). If Client does not pay the kill fee in full within thirty (30) days of the termination date, Consultant retains all work-in-progress and Client shall have no right to use any work created under the terminated SOW.
+
+Enforceability Acknowledgment. THE PARTIES ACKNOWLEDGE THAT CONSULTANT'S ACTUAL DAMAGES FROM EARLY TERMINATION — INCLUDING LOST OPPORTUNITY COSTS, PERSONNEL REALLOCATION, RAMP-DOWN EXPENSES, AND ADMINISTRATIVE OVERHEAD — ARE INHERENTLY UNCERTAIN AND DIFFICULT TO ESTIMATE WITH PRECISION. THE KILL FEE SET FORTH IN THIS SECTION REPRESENTS THE PARTIES' REASONABLE ESTIMATE OF THOSE DAMAGES AFTER NEGOTIATION. EACH PARTY ACKNOWLEDGES THAT IT HAS HAD THE OPPORTUNITY TO BE ADVISED BY LEGAL COUNSEL REGARDING THIS PROVISION.
+
+**`[ACCEPTABLE]`** If Client terminates without cause or Consultant terminates for Client's uncured breach, Client pays all fees accrued through the termination date plus twenty-five percent (25%) of the fees remaining under the terminated SOW. IP assignment conditioned on full payment of kill fee as set forth above.
+
+**`[WALK-AWAY]`** No kill fee. Client can terminate at any time with only accrued fees paid. No IP assignment or delivery of work-in-progress on termination. **[DO NOT ACCEPT — REQUIRES PRINCIPAL SIGN-OFF]**
 
 ---
 
@@ -361,21 +369,32 @@ Consultant shall:
 ## 9. TERM AND TERMINATION
 
 ### 9.1 Term
-This Agreement begins on the Effective Date and continues for **one (1) year** (the **"Initial Term"**). Thereafter, it automatically renews for successive one-year terms unless either Party gives thirty (30) days' written notice of non-renewal.
+This Agreement begins on the Effective Date and continues for **one (1) year** (the **"Initial Term"**). Thereafter, it automatically renews for successive **one (1) year** terms (each a **"Renewal Term"**) unless either Party gives thirty (30) days' written notice of non-renewal before the end of the then-current term. Non-renewal is not a termination and does not trigger the kill fee (Section 2.6).
 
 ### 9.2 Termination for Convenience
-Either Party may terminate this Agreement or any SOW without cause by giving thirty (30) days' written notice. If Client terminates without cause, Section 2.6 (Kill Fee) applies.
+Either Party may terminate this Agreement or any SOW without cause by giving thirty (30) days' written notice. If Client terminates without cause, Section 2.6 (Kill Fee) applies. If Consultant terminates without cause, Consultant shall refund any prepaid fees for services not yet rendered, and no kill fee is payable.
+
+**Transition Assistance.** Upon either Party's termination or non-renewal, Consultant shall provide reasonable transition assistance for up to thirty (30) days at Consultant's then-standard rates, including knowledge transfer, documentation, and data handover. This Section 9.2 survives termination.
 
 ### 9.3 Termination for Cause
-Either Party may terminate this Agreement or any SOW immediately upon written notice if the other Party:
-(a) materially breaches this Agreement and fails to cure within fifteen (15) days of written notice;
-(b) becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of creditors.
+
+**(a) Material Breach.** Either Party may terminate this Agreement or any SOW if the other Party commits a material breach and fails to cure within the cure periods set forth below:
+
+(i) **Payment Defaults.** If Client fails to pay any amount when due, Client shall have **five (5) business days** from written notice to cure. Consultant may also, at its option, exercise its suspension rights under Section 2.3 without terminating.
+
+(ii) **Performance Defaults.** If a Party materially fails to perform its obligations under this Agreement or a SOW (other than a payment default), the breaching Party shall have **fifteen (15) business days** for SOW-level obligations or **thirty (30) days** for Agreement-level obligations from written notice to cure.
+
+(iii) **Non-Curable Breaches.** The following breaches are not subject to cure: breach of confidentiality (Section 4), breach of intellectual property rights (Section 3), breach of data security obligations, or any breach where cure is not commercially feasible. The non-breaching Party may terminate immediately upon written notice.
+
+**(b) Cumulative / Pattern Breach.** If a Party commits three (3) or more non-material breaches within any twelve (12) month period, the non-breaching Party may treat such pattern as a material breach and terminate under Section 9.3(a), even if each individual breach was cured within its applicable cure period.
+
+**(c) Insolvency.** A Party may terminate this Agreement immediately upon written notice if the other Party: (i) makes an assignment for the benefit of creditors; (ii) becomes insolvent or admits in writing its inability to pay debts as they become due; (iii) is dissolved or liquidated; or (iv) a receiver, trustee, or similar officer is appointed for its business or assets. **Termination under this Section is subject to 11 U.S.C. § 365(e) to the extent applicable.** A petition for relief under the United States Bankruptcy Code shall be governed by applicable bankruptcy law, not this Section.
 
 ### 9.4 Effect of Termination
 Upon termination:
 (a) Client shall pay all fees accrued through the termination date (plus kill fee if applicable);
 (b) each Party shall return or destroy the other's Confidential Information;
-(c) Sections 3 (IP), 4 (Confidentiality), 5.3 (Disclaimers), 6 (Limitation of Liability), 7 (Indemnification), 9.4, and 10 (General) survive.
+(c) Sections 2.6 (Kill Fee), 3 (IP), 4 (Confidentiality), 5.3 (Disclaimers), 6 (Limitation of Liability), 7 (Indemnification), 9.2 (Transition Assistance), 9.4, and 10 (General) survive.
 
 ---
 

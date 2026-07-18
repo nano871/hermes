@@ -65,7 +65,7 @@
 | 🔴 P0 | **Domain ownership** — verify registrant, auto-renew, contact email | Check now — one expiration loses everything | 📋 ACTION REQUIRED |
 | 🔴 P0 | **Insurance coverage** — does GL/E&O cover web design + AI? | Call broker this week | 📋 ACTION REQUIRED |
 | 🔴 P0 | **Entity structure** — separate LLC for web design? DBA filed? | Assess by end of month | 📋 ACTION REQUIRED |
-| 🔴 P0 | **Business continuity** — password manager, emergency access | BUILT — see saffron-business-continuity.md | ✅ RESOLVED |
+| 🔴 P0 | **Business continuity** — password manager, emergency access | BUILT — 1Password Saffron Designs vault with 11 items (see below) | ✅ RESOLVED |
 | 🟡 P1 | **Client records retention policy** — how long, when to delete | BUILT — see saffron-records-retention.md | ✅ RESOLVED |
 | 🟡 P1 | **Prospect qualification framework** | BUILT — see saffron-prospect-qualification.md | ✅ RESOLVED |
 | 🟡 P1 | **Subcontractor onboarding checklist** | BUILT — see saffron-subcontractor-checklist.md | ✅ RESOLVED |
@@ -76,10 +76,24 @@
 
 ### Action Items for You
 
-| # | Action | Time Needed | When |
-|---|--------|-------------|------|
-| 1 | **Check domain ownership** (saffrondesigns.io): log into registrar, verify registrant name = business entity, auto-renew ON | 10 min | This week |
-| 2 | **Call insurance broker**: "Does my GL/E&O policy cover web design services? Any AI exclusions?" | 15 min | This week |
-| 3 | **Set up password manager** with emergency access (LastPass, 1Password, Bitwarden) | 30 min | This week |
-| 4 | **Register DBA** if not already done: MN SOS Certificate of Assumed Name ($25) | 20 min | This month |
-| 5 | **Confirm separate bank account** for business | 10 min | This month |
+| # | Action | Time Needed | When | Status |
+|---|--------|-------------|------|--------|
+| 1 | **Check domain ownership** (saffrondesigns.io): log into registrar, verify registrant name = business entity, auto-renew ON | 10 min | This week | 📋 |
+| 2 | **Call insurance broker**: "Does my GL/E&O policy cover web design services? Any AI exclusions?" | 15 min | This week | 📋 |
+| 3 | **Set up 1Password Emergency Access**: my.1password.com → Settings → Emergency Access → Add contact | 5 min | This week | 📋 |
+| 4 | **Fill in actual credentials** in the 1Password vault items (hosting, domain, banking, insurance) | 20 min | This month | 📋 |
+| 5 | **Register DBA** if not done: MN SOS Certificate of Assumed Name ($25) | 20 min | This month | 📋 |
+| 6 | **Confirm separate business bank account** | 10 min | This month | 📋 |
+
+### ✅ 1Password Vault Structure Complete
+
+| Category | Items Created |
+|----------|--------------|
+| Emergency | 🔐 VAULT INDEX & EMERGENCY ACCESS |
+| Business | 📋 Business Registration, 💳 Business Banking |
+| Insurance | 🛡️ Insurance |
+| Domains & Hosting | 🌐 Domain Registrar, ☁️ Web Hosting |
+| Email | 📧 Business Email |
+| API Keys | 🤖 OpenAI API Key, 💳 Stripe |
+| Compliance | 📅 Compliance Calendar |
+| Client Credentials | 👤 CLIENT CREDENTIALS TEMPLATE (duplicate per client) |

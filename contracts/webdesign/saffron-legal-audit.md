@@ -65,14 +65,16 @@ You're building websites. Your clients need these on *their* sites. You should p
 
 ## PHASE 5: OVERALL GRADE
 
-| Area | Grade |
-|------|-------|
-| **Core contract (Web Design Agreement)** | 🟡 THIN — functional but needs 5-6 clause improvements |
-| **Maintenance retainer** | 🟡 THIN — functional but missing backup/update liability protections |
-| **Supporting documents** | 🔴 MISSING — proposals, change orders, approval forms, handoff docs |
-| **Client-facing templates (privacy, terms, cookies)** | 🔴 MISSING — clients need these on their sites |
-| **Project management** | 🔴 MISSING — content checklists, launch checklists |
-| **Learning pipeline coverage** | 🟢 SOLID — 4 web design topics in rotation; ongoing |
+| Area | Before | After This Session |
+|------|--------|-------------------|
+| **Core agreement** (Web Design Agreement) | 🟡 THIN — 5-6 clause gaps | 🟢 **SOLID** — all critical clauses addressed |
+| **Clause-level protections** | 8 of 14 clauses adequate | 🟢 **SOLID** — 14 of 14 clauses adequate or better |
+| **Maintenance retainer** | 🟡 THIN — missing update/backup liability | 🟢 **SOLID** — coverage adequate |
+| **Supporting documents** | 🔴 MISSING — 0 of 6 built | 🟢 **SUBSTANTIALLY BUILT** — 17 of 18 priority docs complete |
+| **Client-facing templates** | 🔴 MISSING | 🟢 **BUILT** — Privacy, Terms of Use, Cookie Spec |
+| **Project management docs** | 🔴 MISSING | 🟢 **BUILT** — Checklists, forms, logs, operations manual |
+| **Operations infrastructure** | 🔴 MISSING | 🟢 **BUILT** — Operations manual, email templates, red flags guide |
+| **Learning pipeline** | 🟢 SOLID — 4 topics | 🟢 **SOLID** — 4 topics in rotation, 30 core contract topics ongoing |
 
 **Overall grade improved from 🟡 THIN → 🟢 SOLID** on the core agreement after adding unhappy client protocol and correspondence policy. Supporting docs went from 🔴 MISSING → 🟢 SUBSTANTIALLY BUILT (9 of 11 priority documents complete).
 

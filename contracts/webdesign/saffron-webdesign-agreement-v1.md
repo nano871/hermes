@@ -149,6 +149,12 @@ If Designer provides hosting as a direct service (not through a third-party prov
 ### 4.3 Transfer
 Upon project completion, Designer shall provide Client with all necessary credentials and documentation to manage the website independently, including: CMS admin access, hosting credentials (if Designer set up hosting), and any third-party account access.
 
+### 4.4 Third-Party Terms Compliance
+The Website may utilize third-party platforms and services (including but not limited to: Shopify, WooCommerce, Stripe, Mailchimp, analytics providers, and payment gateways). Client agrees to comply with the terms of service, acceptable use policies, and all applicable rules of each third-party provider. Designer is not responsible for: (a) termination or suspension of Client's account by a third-party provider for violation of its terms; (b) changes to third-party platform functionality that affect the Website after launch; (c) fees, fines, or penalties imposed by third-party providers as a result of Client's use of the Website.
+
+### 4.5 Content Migration
+If services include migration of content from an existing website or platform, Designer shall use commercially reasonable efforts to preserve existing content. Designer is not responsible for: (a) data loss caused by the prior hosting provider, platform, or third-party services; (b) content that is incompatible with the new platform; (c) content that was not provided by Client in a usable format. Client is responsible for maintaining a complete backup of all existing content before migration begins.
+
 ---
 
 ## 5. WARRANTIES AND DISCLAIMERS

@@ -1,7 +1,7 @@
 # SAFFRON MASTER SERVICES AGREEMENT
 
-**Version:** 1.6 — Counsel Prime
-**Last Updated:** July 18, 2026
+**Version:** 1.7 — Counsel Prime
+**Last Updated:** July 19, 2026
 **Status:** Draft — `[VERIFY]` flags await principal confirmation
 
 ---
@@ -201,6 +201,26 @@ If Consultant incorporates open-source software into the Deliverables, Consultan
 **`[ACCEPTABLE]`** Same Sections (a), (b), and (d), but without the model inversion warranty disclaimer in Section (c) — rely on the general disclaimers in Sections 3.4 and 5.3.
 
 **`[WALK-AWAY]`** Client demands ownership of the entire fine-tuned model including base model weights. Client refuses to acknowledge Platform Terms. Client requires a warranty that training data cannot be extracted or reconstructed from a fine-tuned model. **[DO NOT ACCEPT WITHOUT PRINCIPAL REVIEW]**
+
+### 3.9 Client Data — No Training or Model Improvement
+
+**`[IDEAL]`**
+
+**(a) Client Data Defined.** "Client Data" means all data, information, content, prompts, queries, inputs, files, documents, materials, datasets, and any derivatives thereof, provided by or on behalf of Client to Consultant under any SOW, whether before, on, or after the Effective Date.
+
+**(b) No Training Use.** Consultant shall not use Client Data to train, fine-tune, improve, update, reinforce, benchmark, or otherwise develop any general-purpose artificial intelligence model, foundation model, large language model, or any AI system that will be made available to persons other than Client. This restriction applies regardless of whether Client Data has been anonymized, aggregated, de-identified, pseudonymized, or otherwise processed.
+
+**(c) No Incorporation.** Consultant shall not incorporate Client Data, or any derivatives thereof, into Consultant's base tools, pre-existing models, training datasets, or services offered to other clients.
+
+**(d) Permitted Uses.** Notwithstanding Sections 3.9(b) and 3.9(c), Consultant may use Client Data solely to: (i) perform the specific services described in the applicable SOW; (ii) monitor, test, and maintain the Deliverables for quality and security (provided such monitoring does not involve model training or improvement); and (iii) comply with applicable law, regulation, or legal process.
+
+**(e) Deletion Upon Termination.** Consultant shall delete all Client Data from its systems, including any third-party AI platform systems to which Consultant provided Client Data, within thirty (30) days of termination of the applicable SOW, except to the extent retention is required by applicable law. Consultant shall provide written certification of deletion upon Client's request.
+
+**(f) Flow-Down to Subcontractors and Platform Providers.** Consultant shall ensure that any subcontractor or third-party AI platform provider engaged in performing the services is contractually bound to equivalent restrictions on the use of Client Data for model training or improvement, to the extent commercially feasible under such third party's standard terms.
+
+**`[ACCEPTABLE]`** Same Sections (a) through (e), without Section (f) (flow-down obligation). Consultant relies on its own contractual commitments and represents that it has selected AI platform providers whose published terms are consistent with the training prohibition, but does not independently warrant such compliance by third-party platforms.
+
+**`[WALK-AWAY]`** (a) Consultant claims any ownership or license rights in Client Data beyond those necessary to perform the services. (b) Consultant retains the right to use Client Data for model improvement or training, including in anonymized form. (c) No deletion obligation on termination. **[DO NOT ACCEPT WITHOUT PRINCIPAL REVIEW]**
 
 ---
 
